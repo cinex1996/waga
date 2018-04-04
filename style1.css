@@ -1,0 +1,23 @@
+body
+{
+	background-image: url("stonehaven.png");
+}
+h1
+{
+	text-align: center;
+}
+.wynik
+{
+	margin-top: 20%;
+	text-align: center;
+	background-color: white;
+	width: 300px;
+	height: 300px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 100px;
+	padding: 100px;
+	-webkit-box-shadow: 2px 7px 49px 9px rgba(0,0,0,0.75);
+-moz-box-shadow: 2px 7px 49px 9px rgba(0,0,0,0.75);
+box-shadow: 2px 7px 49px 9px rgba(0,0,0,0.75);
+}
